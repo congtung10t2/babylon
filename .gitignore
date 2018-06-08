@@ -1,0 +1,11 @@
+dist
+bower_components
+node_modules
+typings
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.vscode/settings.json
+*.min.xml
+**/.idea
+*.zip
